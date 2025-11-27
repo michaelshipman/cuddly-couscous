@@ -1,0 +1,6 @@
+[submodule "Firmware/vendor/CMSIS"]
+	path = Firmware/vendor/CMSIS
+	url = https://github.com/ARM-software/CMSIS_5.git
+[submodule "Firmware/vendor/CMSIS_5"]
+	path = Firmware/vendor/CMSIS_5
+	url = https://github.com/ARM-software/CMSIS_5.git
