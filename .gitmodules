@@ -4,3 +4,6 @@
 [submodule "Firmware/vendor/CMSIS_5"]
 	path = Firmware/vendor/CMSIS_5
 	url = https://github.com/ARM-software/CMSIS_5.git
+[submodule "Firmware/vendor/cmsis-device-wl"]
+	path = Firmware/vendor/cmsis-device-wl
+	url = https://github.com/STMicroelectronics/cmsis-device-wl.git
