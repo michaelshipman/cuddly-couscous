@@ -1,0 +1,26 @@
+import os
+
+VariantDir('build', '.', duplicate=False)
+
+src_files = [
+    'build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.c',
+    Glob('build/components/core/src/*.c'),
+    Glob('build/components/core/src/*.s'),
+    ]
+
+env_options = {
+    "CC"        : "arm-none-eabi-gcc",
+    "LD"        : "arm-none-eabi-gcc",
+    "CCFLAGS"   : '-mcpu=cortex-m4 -mthumb -nostdlib -DSTM32WLE5xx',
+    "LINKFLAGS" : '-TSTM32WLE5JCIX_FLASH.ld -nostdlib -Wl,-Map=build/program.map',
+    "AS"        : 'arm-none-eabi-gcc',
+    "ASFLAGS"   : '-mcpu=cortex-m4 -mthumb -nostdlib -DSTM32WLE5xx -c -x assembler-with-cpp'
+
+}
+
+env = (Environment(**env_options))
+env.Append(ENV = {'PATH' : os.environ['PATH']})
+env.Append(CPPPATH=['build/vendor/CMSIS_5/CMSIS/Core/Include', 'build/vendor/cmsis-device-wl/Include'])
+
+
+env.Program('build/program.elf', src_files)
