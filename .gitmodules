@@ -7,3 +7,6 @@
 [submodule "Firmware/vendor/cmsis-device-wl"]
 	path = Firmware/vendor/cmsis-device-wl
 	url = https://github.com/STMicroelectronics/cmsis-device-wl.git
+[submodule "Firmware/vendor/stm32wlxx-hal-driver"]
+	path = Firmware/vendor/stm32wlxx-hal-driver
+	url = https://github.com/STMicroelectronics/stm32wlxx-hal-driver.git
