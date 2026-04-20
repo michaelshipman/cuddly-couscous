@@ -6,21 +6,31 @@ src_files = [
     'build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.c',
     Glob('build/components/core/src/*.c'),
     Glob('build/components/core/src/*.s'),
+    Glob('build/vendor/stm32wlxx-hal-driver/Src/*_ll_*.c'),
+    Glob('build/components/peripheral/src/*.c')
     ]
+
+defines = '-DSTM32WLE5xx -DUSE_FULL_LL_DRIVER -DDEBUG -DCORE_M4 -DHSE_VALUE=8000000 -DHSE_STARTUP_TIMEOUT=100 -DLSE_STARTUP_TIMEOUT=5000 -DLSE_VALUE=32768 -DEXTERNAL_CLOCK_VALUE=48000 -DHSI_VALUE=16000000 -DLSI_VALUE=32000 -DVDD_VALUE=3300 -DPREFETCH_ENABLE=0 -DINSTRUCTION_CACHE_ENABLE=1 -DDATA_CACHE_ENABLE=1'
 
 env_options = {
     "CC"        : "arm-none-eabi-gcc",
     "LD"        : "arm-none-eabi-gcc",
-    "CCFLAGS"   : '-mcpu=cortex-m4 -mthumb -nostdlib -DSTM32WLE5xx',
-    "LINKFLAGS" : '-TSTM32WLE5JCIX_FLASH.ld -nostdlib -Wl,-Map=build/program.map',
+    "CCFLAGS"   : '-g3 -gdwarf-2 -O0 -mcpu=cortex-m4 -static -std=gnu11 -mfloat-abi=soft -mthumb -nostdlib' + ' ' + defines,
+    "LINKFLAGS" : '-g3 -gdwarf-2 -O0 -static -std=gnu11 -mfloat-abi=soft -TSTM32WLE5JCIX_FLASH.ld -nostdlib -Wl,-Map=build/program.map',
     "AS"        : 'arm-none-eabi-gcc',
-    "ASFLAGS"   : '-mcpu=cortex-m4 -mthumb -nostdlib -DSTM32WLE5xx -c -x assembler-with-cpp'
+    "ASFLAGS"   : '-g3 -gdwarf-2 -O0 -mcpu=cortex-m4 -static -std=gnu11 -mfloat-abi=soft -mthumb -nostdlib -c -x assembler-with-cpp' + ' ' + defines
 
 }
 
 env = (Environment(**env_options))
 env.Append(ENV = {'PATH' : os.environ['PATH']})
-env.Append(CPPPATH=['build/vendor/CMSIS_5/CMSIS/Core/Include', 'build/vendor/cmsis-device-wl/Include'])
+env.Append(CPPPATH= [
+    'build/components/core/inc',
+    'build/components/peripheral/inc',
+    'build/vendor/CMSIS_5/CMSIS/Core/Include',
+    'build/vendor/cmsis-device-wl/Include',
+    'build/vendor/stm32wlxx-hal-driver/Inc'
+    ])
 
 
 env.Program('build/program.elf', src_files)

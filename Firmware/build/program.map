@@ -1,5 +1,832 @@
 
-There are no discarded input sections
+Discarded input sections
+
+ .group         0x00000000        0xc build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+ .group         0x00000000        0xc build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+ .group         0x00000000        0xc build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+ .group         0x00000000        0xc build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+ .group         0x00000000        0xc build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+ .group         0x00000000        0xc build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+ .group         0x00000000        0xc build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+ .group         0x00000000        0xc build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+ .group         0x00000000        0xc build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+ .group         0x00000000        0xc build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+ .group         0x00000000        0xc build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+ .group         0x00000000        0xc build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+ .group         0x00000000        0xc build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+ .group         0x00000000        0xc build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+ .group         0x00000000        0xc build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+ .group         0x00000000        0xc build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .group         0x00000000        0xc build/components/core/src/main.o
+ .debug_macro   0x00000000      0xb14 build/components/core/src/main.o
+ .debug_macro   0x00000000       0x2e build/components/core/src/main.o
+ .debug_macro   0x00000000       0x34 build/components/core/src/main.o
+ .debug_macro   0x00000000       0x22 build/components/core/src/main.o
+ .debug_macro   0x00000000       0x8e build/components/core/src/main.o
+ .debug_macro   0x00000000       0x51 build/components/core/src/main.o
+ .debug_macro   0x00000000      0x103 build/components/core/src/main.o
+ .debug_macro   0x00000000       0x6a build/components/core/src/main.o
+ .debug_macro   0x00000000      0x1df build/components/core/src/main.o
+ .debug_macro   0x00000000       0x1c build/components/core/src/main.o
+ .debug_macro   0x00000000       0x22 build/components/core/src/main.o
+ .debug_macro   0x00000000       0xfb build/components/core/src/main.o
+ .debug_macro   0x00000000     0x1011 build/components/core/src/main.o
+ .debug_macro   0x00000000      0x11f build/components/core/src/main.o
+ .debug_macro   0x00000000     0xce53 build/components/core/src/main.o
+ .debug_macro   0x00000000       0x6d build/components/core/src/main.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .debug_macro   0x00000000      0xb14 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .debug_macro   0x00000000       0x2e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .debug_macro   0x00000000       0x34 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .debug_macro   0x00000000       0x22 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .debug_macro   0x00000000       0x8e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .debug_macro   0x00000000       0x51 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .debug_macro   0x00000000      0x103 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .debug_macro   0x00000000       0x6a build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .debug_macro   0x00000000      0x1df build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .debug_macro   0x00000000       0x1c build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .debug_macro   0x00000000       0x22 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .debug_macro   0x00000000       0xfb build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .debug_macro   0x00000000     0x1011 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .debug_macro   0x00000000      0x11f build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .debug_macro   0x00000000     0xce53 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .debug_macro   0x00000000       0x6d build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .debug_macro   0x00000000      0x892 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .debug_macro   0x00000000      0x113 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .debug_macro   0x00000000      0xb14 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .debug_macro   0x00000000       0x2e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .debug_macro   0x00000000       0x34 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .debug_macro   0x00000000       0x22 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .debug_macro   0x00000000       0x8e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .debug_macro   0x00000000       0x51 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .debug_macro   0x00000000      0x103 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .debug_macro   0x00000000       0x6a build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .debug_macro   0x00000000      0x1df build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .debug_macro   0x00000000       0x1c build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .debug_macro   0x00000000       0x22 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .debug_macro   0x00000000       0xfb build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .debug_macro   0x00000000     0x1011 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .debug_macro   0x00000000      0x11f build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .debug_macro   0x00000000     0xce53 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .debug_macro   0x00000000       0x6d build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .debug_macro   0x00000000      0xb14 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .debug_macro   0x00000000       0x2e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .debug_macro   0x00000000       0x34 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .debug_macro   0x00000000       0x22 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .debug_macro   0x00000000       0x8e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .debug_macro   0x00000000       0x51 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .debug_macro   0x00000000      0x103 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .debug_macro   0x00000000       0x6a build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .debug_macro   0x00000000      0x1df build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .debug_macro   0x00000000       0x1c build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .debug_macro   0x00000000       0x22 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .debug_macro   0x00000000       0xfb build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .debug_macro   0x00000000     0x1011 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .debug_macro   0x00000000      0x11f build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .debug_macro   0x00000000     0xce53 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .debug_macro   0x00000000       0x6d build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .debug_macro   0x00000000      0x113 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .debug_macro   0x00000000      0xb14 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .debug_macro   0x00000000       0x2e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .debug_macro   0x00000000       0x34 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .debug_macro   0x00000000       0x22 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .debug_macro   0x00000000       0x8e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .debug_macro   0x00000000       0x51 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .debug_macro   0x00000000      0x103 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .debug_macro   0x00000000       0x6a build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .debug_macro   0x00000000      0x1df build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .debug_macro   0x00000000       0x1c build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .debug_macro   0x00000000       0x22 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .debug_macro   0x00000000       0xfb build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .debug_macro   0x00000000     0x1011 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .debug_macro   0x00000000      0x11f build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .debug_macro   0x00000000     0xce53 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .debug_macro   0x00000000       0x6d build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .debug_macro   0x00000000      0x113 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .debug_macro   0x00000000      0xb14 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .debug_macro   0x00000000       0x2e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .debug_macro   0x00000000       0x34 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .debug_macro   0x00000000       0x22 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .debug_macro   0x00000000       0x8e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .debug_macro   0x00000000       0x51 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .debug_macro   0x00000000      0x103 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .debug_macro   0x00000000       0x6a build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .debug_macro   0x00000000      0x1df build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .debug_macro   0x00000000       0x1c build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .debug_macro   0x00000000       0x22 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .debug_macro   0x00000000       0xfb build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .debug_macro   0x00000000     0x1011 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .debug_macro   0x00000000      0x11f build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .debug_macro   0x00000000     0xce53 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .debug_macro   0x00000000       0x6d build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .debug_macro   0x00000000      0x416 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .debug_macro   0x00000000      0x287 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .debug_macro   0x00000000      0x113 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .debug_macro   0x00000000      0xb14 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .debug_macro   0x00000000       0x2e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .debug_macro   0x00000000       0x34 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .debug_macro   0x00000000       0x22 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .debug_macro   0x00000000       0x8e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .debug_macro   0x00000000       0x51 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .debug_macro   0x00000000      0x103 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .debug_macro   0x00000000       0x6a build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .debug_macro   0x00000000      0x1df build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .debug_macro   0x00000000       0x1c build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .debug_macro   0x00000000       0x22 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .debug_macro   0x00000000       0xfb build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .debug_macro   0x00000000     0x1011 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .debug_macro   0x00000000      0x11f build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .debug_macro   0x00000000     0xce53 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .debug_macro   0x00000000       0x6d build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .debug_macro   0x00000000      0xb14 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .debug_macro   0x00000000       0x2e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .debug_macro   0x00000000       0x34 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .debug_macro   0x00000000       0x22 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .debug_macro   0x00000000       0x8e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .debug_macro   0x00000000       0x51 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .debug_macro   0x00000000      0x103 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .debug_macro   0x00000000       0x6a build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .debug_macro   0x00000000      0x1df build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .debug_macro   0x00000000       0x1c build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .debug_macro   0x00000000       0x22 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .debug_macro   0x00000000       0xfb build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .debug_macro   0x00000000     0x1011 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .debug_macro   0x00000000      0x11f build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .debug_macro   0x00000000     0xce53 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .debug_macro   0x00000000       0x6d build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .debug_macro   0x00000000      0x113 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .debug_macro   0x00000000      0xb14 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .debug_macro   0x00000000       0x2e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .debug_macro   0x00000000       0x34 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .debug_macro   0x00000000       0x22 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .debug_macro   0x00000000       0x8e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .debug_macro   0x00000000       0x51 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .debug_macro   0x00000000      0x103 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .debug_macro   0x00000000       0x6a build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .debug_macro   0x00000000      0x1df build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .debug_macro   0x00000000       0x1c build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .debug_macro   0x00000000       0x22 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .debug_macro   0x00000000       0xfb build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .debug_macro   0x00000000     0x1011 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .debug_macro   0x00000000      0x11f build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .debug_macro   0x00000000     0xce53 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .debug_macro   0x00000000       0x6d build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .debug_macro   0x00000000      0x113 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .debug_macro   0x00000000      0xb14 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .debug_macro   0x00000000       0x2e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .debug_macro   0x00000000       0x34 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .debug_macro   0x00000000       0x22 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .debug_macro   0x00000000       0x8e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .debug_macro   0x00000000       0x51 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .debug_macro   0x00000000      0x103 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .debug_macro   0x00000000       0x6a build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .debug_macro   0x00000000      0x1df build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .debug_macro   0x00000000       0x1c build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .debug_macro   0x00000000       0x22 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .debug_macro   0x00000000       0xfb build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .debug_macro   0x00000000     0x1011 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .debug_macro   0x00000000      0x11f build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .debug_macro   0x00000000     0xce53 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .debug_macro   0x00000000       0x6d build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .debug_macro   0x00000000      0x113 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .debug_macro   0x00000000      0x684 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .debug_macro   0x00000000      0xb14 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .debug_macro   0x00000000       0x2e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .debug_macro   0x00000000       0x34 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .debug_macro   0x00000000       0x22 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .debug_macro   0x00000000       0x8e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .debug_macro   0x00000000       0x51 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .debug_macro   0x00000000      0x103 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .debug_macro   0x00000000       0x6a build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .debug_macro   0x00000000      0x1df build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .debug_macro   0x00000000       0x1c build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .debug_macro   0x00000000       0x22 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .debug_macro   0x00000000       0xfb build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .debug_macro   0x00000000     0x1011 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .debug_macro   0x00000000      0x11f build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .debug_macro   0x00000000     0xce53 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .debug_macro   0x00000000       0x6d build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .debug_macro   0x00000000      0x113 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .debug_macro   0x00000000      0x684 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .debug_macro   0x00000000      0xb14 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .debug_macro   0x00000000       0x2e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .debug_macro   0x00000000       0x34 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .debug_macro   0x00000000       0x22 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .debug_macro   0x00000000       0x8e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .debug_macro   0x00000000       0x51 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .debug_macro   0x00000000      0x103 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .debug_macro   0x00000000       0x6a build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .debug_macro   0x00000000      0x1df build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .debug_macro   0x00000000       0x1c build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .debug_macro   0x00000000       0x22 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .debug_macro   0x00000000       0xfb build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .debug_macro   0x00000000     0x1011 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .debug_macro   0x00000000      0x11f build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .debug_macro   0x00000000     0xce53 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .debug_macro   0x00000000       0x6d build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .debug_macro   0x00000000      0x113 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .debug_macro   0x00000000      0xb14 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .debug_macro   0x00000000       0x2e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .debug_macro   0x00000000       0x34 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .debug_macro   0x00000000       0x22 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .debug_macro   0x00000000       0x8e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .debug_macro   0x00000000       0x51 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .debug_macro   0x00000000      0x103 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .debug_macro   0x00000000       0x6a build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .debug_macro   0x00000000      0x1df build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .debug_macro   0x00000000       0x1c build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .debug_macro   0x00000000       0x22 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .debug_macro   0x00000000       0xfb build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .debug_macro   0x00000000     0x1011 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .debug_macro   0x00000000      0x11f build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .debug_macro   0x00000000     0xce53 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .debug_macro   0x00000000       0x6d build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .debug_macro   0x00000000      0x113 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .debug_macro   0x00000000      0xb14 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .debug_macro   0x00000000       0x2e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .debug_macro   0x00000000       0x34 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .debug_macro   0x00000000       0x22 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .debug_macro   0x00000000       0x8e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .debug_macro   0x00000000       0x51 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .debug_macro   0x00000000      0x103 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .debug_macro   0x00000000       0x6a build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .debug_macro   0x00000000      0x1df build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .debug_macro   0x00000000       0x1c build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .debug_macro   0x00000000       0x22 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .debug_macro   0x00000000       0xfb build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .debug_macro   0x00000000     0x1011 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .debug_macro   0x00000000      0x11f build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .debug_macro   0x00000000     0xce53 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .debug_macro   0x00000000       0x6d build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .debug_macro   0x00000000      0xb14 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .debug_macro   0x00000000       0x2e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .debug_macro   0x00000000       0x34 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .debug_macro   0x00000000       0x22 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .debug_macro   0x00000000       0x8e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .debug_macro   0x00000000       0x51 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .debug_macro   0x00000000      0x103 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .debug_macro   0x00000000       0x6a build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .debug_macro   0x00000000      0x1df build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .debug_macro   0x00000000       0x1c build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .debug_macro   0x00000000       0x22 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .debug_macro   0x00000000       0xfb build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .debug_macro   0x00000000     0x1011 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .debug_macro   0x00000000      0x11f build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .debug_macro   0x00000000     0xce53 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .debug_macro   0x00000000       0x6d build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .debug_macro   0x00000000      0x113 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .debug_macro   0x00000000      0xb14 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .debug_macro   0x00000000       0x2e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .debug_macro   0x00000000       0x34 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .debug_macro   0x00000000       0x22 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .debug_macro   0x00000000       0x8e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .debug_macro   0x00000000       0x51 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .debug_macro   0x00000000      0x103 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .debug_macro   0x00000000       0x6a build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .debug_macro   0x00000000      0x1df build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .debug_macro   0x00000000       0x1c build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .debug_macro   0x00000000       0x22 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .debug_macro   0x00000000       0xfb build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .debug_macro   0x00000000     0x1011 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .debug_macro   0x00000000      0x11f build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .debug_macro   0x00000000     0xce53 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .debug_macro   0x00000000       0x6d build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .debug_macro   0x00000000      0x1a4 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .debug_macro   0x00000000      0xb14 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .debug_macro   0x00000000       0x2e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .debug_macro   0x00000000       0x34 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .debug_macro   0x00000000       0x22 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .debug_macro   0x00000000       0x8e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .debug_macro   0x00000000       0x51 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .debug_macro   0x00000000      0x103 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .debug_macro   0x00000000       0x6a build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .debug_macro   0x00000000      0x1df build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .debug_macro   0x00000000       0x1c build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .debug_macro   0x00000000       0x22 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .debug_macro   0x00000000       0xfb build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .debug_macro   0x00000000     0x1011 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .debug_macro   0x00000000      0x11f build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .debug_macro   0x00000000     0xce53 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .debug_macro   0x00000000       0x6d build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .debug_macro   0x00000000      0x113 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .debug_macro   0x00000000      0x684 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .debug_macro   0x00000000      0xb14 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .debug_macro   0x00000000       0x2e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .debug_macro   0x00000000       0x34 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .debug_macro   0x00000000       0x22 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .debug_macro   0x00000000       0x8e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .debug_macro   0x00000000       0x51 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .debug_macro   0x00000000      0x103 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .debug_macro   0x00000000       0x6a build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .debug_macro   0x00000000      0x1df build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .debug_macro   0x00000000       0x1c build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .debug_macro   0x00000000       0x22 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .debug_macro   0x00000000       0xfb build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .debug_macro   0x00000000     0x1011 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .debug_macro   0x00000000      0x11f build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .debug_macro   0x00000000     0xce53 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .debug_macro   0x00000000       0x6d build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .debug_macro   0x00000000      0x113 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .debug_macro   0x00000000      0xb14 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .debug_macro   0x00000000       0x2e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .debug_macro   0x00000000       0x34 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .debug_macro   0x00000000       0x22 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .debug_macro   0x00000000       0x8e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .debug_macro   0x00000000       0x51 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .debug_macro   0x00000000      0x103 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .debug_macro   0x00000000       0x6a build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .debug_macro   0x00000000      0x1df build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .debug_macro   0x00000000       0x1c build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .debug_macro   0x00000000       0x22 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .debug_macro   0x00000000       0xfb build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .debug_macro   0x00000000     0x1011 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .debug_macro   0x00000000      0x11f build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .debug_macro   0x00000000     0xce53 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .debug_macro   0x00000000       0x6d build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .debug_macro   0x00000000      0x684 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .debug_macro   0x00000000      0x113 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .group         0x00000000        0xc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .debug_macro   0x00000000      0xb14 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .debug_macro   0x00000000       0x2e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .debug_macro   0x00000000       0x34 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .debug_macro   0x00000000       0x22 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .debug_macro   0x00000000       0x8e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .debug_macro   0x00000000       0x51 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .debug_macro   0x00000000      0x103 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .debug_macro   0x00000000       0x6a build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .debug_macro   0x00000000      0x1df build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .debug_macro   0x00000000       0x1c build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .debug_macro   0x00000000       0x22 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .debug_macro   0x00000000       0xfb build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .debug_macro   0x00000000     0x1011 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .debug_macro   0x00000000      0x11f build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .debug_macro   0x00000000     0xce53 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .debug_macro   0x00000000       0x6d build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .debug_macro   0x00000000      0x684 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .debug_macro   0x00000000      0x269 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .debug_macro   0x00000000      0x25f build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .group         0x00000000        0xc build/components/peripheral/src/usart.o
+ .group         0x00000000        0xc build/components/peripheral/src/usart.o
+ .group         0x00000000        0xc build/components/peripheral/src/usart.o
+ .group         0x00000000        0xc build/components/peripheral/src/usart.o
+ .group         0x00000000        0xc build/components/peripheral/src/usart.o
+ .group         0x00000000        0xc build/components/peripheral/src/usart.o
+ .group         0x00000000        0xc build/components/peripheral/src/usart.o
+ .group         0x00000000        0xc build/components/peripheral/src/usart.o
+ .group         0x00000000        0xc build/components/peripheral/src/usart.o
+ .group         0x00000000        0xc build/components/peripheral/src/usart.o
+ .group         0x00000000        0xc build/components/peripheral/src/usart.o
+ .group         0x00000000        0xc build/components/peripheral/src/usart.o
+ .group         0x00000000        0xc build/components/peripheral/src/usart.o
+ .group         0x00000000        0xc build/components/peripheral/src/usart.o
+ .group         0x00000000        0xc build/components/peripheral/src/usart.o
+ .group         0x00000000        0xc build/components/peripheral/src/usart.o
+ .group         0x00000000        0xc build/components/peripheral/src/usart.o
+ .group         0x00000000        0xc build/components/peripheral/src/usart.o
+ .group         0x00000000        0xc build/components/peripheral/src/usart.o
+ .group         0x00000000        0xc build/components/peripheral/src/usart.o
+ .group         0x00000000        0xc build/components/peripheral/src/usart.o
+ .group         0x00000000        0xc build/components/peripheral/src/usart.o
+ .group         0x00000000        0xc build/components/peripheral/src/usart.o
+ .group         0x00000000        0xc build/components/peripheral/src/usart.o
+ .group         0x00000000        0xc build/components/peripheral/src/usart.o
+ .group         0x00000000        0xc build/components/peripheral/src/usart.o
+ .group         0x00000000        0xc build/components/peripheral/src/usart.o
+ .group         0x00000000        0xc build/components/peripheral/src/usart.o
+ .group         0x00000000        0xc build/components/peripheral/src/usart.o
+ .group         0x00000000        0xc build/components/peripheral/src/usart.o
+ .group         0x00000000        0xc build/components/peripheral/src/usart.o
+ .group         0x00000000        0xc build/components/peripheral/src/usart.o
+ .debug_macro   0x00000000      0xb14 build/components/peripheral/src/usart.o
+ .debug_macro   0x00000000       0x2e build/components/peripheral/src/usart.o
+ .debug_macro   0x00000000       0x34 build/components/peripheral/src/usart.o
+ .debug_macro   0x00000000       0x22 build/components/peripheral/src/usart.o
+ .debug_macro   0x00000000       0x8e build/components/peripheral/src/usart.o
+ .debug_macro   0x00000000       0x51 build/components/peripheral/src/usart.o
+ .debug_macro   0x00000000      0x103 build/components/peripheral/src/usart.o
+ .debug_macro   0x00000000       0x6a build/components/peripheral/src/usart.o
+ .debug_macro   0x00000000      0x1df build/components/peripheral/src/usart.o
+ .debug_macro   0x00000000       0x1c build/components/peripheral/src/usart.o
+ .debug_macro   0x00000000       0x22 build/components/peripheral/src/usart.o
+ .debug_macro   0x00000000       0xfb build/components/peripheral/src/usart.o
+ .debug_macro   0x00000000     0x1011 build/components/peripheral/src/usart.o
+ .debug_macro   0x00000000      0x11f build/components/peripheral/src/usart.o
+ .debug_macro   0x00000000     0xce53 build/components/peripheral/src/usart.o
+ .debug_macro   0x00000000       0x6d build/components/peripheral/src/usart.o
+ .debug_macro   0x00000000      0x892 build/components/peripheral/src/usart.o
+ .debug_macro   0x00000000      0x113 build/components/peripheral/src/usart.o
+ .debug_macro   0x00000000      0x1a4 build/components/peripheral/src/usart.o
+ .debug_macro   0x00000000      0x416 build/components/peripheral/src/usart.o
+ .debug_macro   0x00000000      0x287 build/components/peripheral/src/usart.o
+ .debug_macro   0x00000000      0x14d build/components/peripheral/src/usart.o
+ .debug_macro   0x00000000      0x14a build/components/peripheral/src/usart.o
+ .debug_macro   0x00000000      0x24d build/components/peripheral/src/usart.o
+ .debug_macro   0x00000000      0x224 build/components/peripheral/src/usart.o
+ .debug_macro   0x00000000      0x317 build/components/peripheral/src/usart.o
+ .debug_macro   0x00000000      0x25f build/components/peripheral/src/usart.o
+ .debug_macro   0x00000000      0x684 build/components/peripheral/src/usart.o
+ .debug_macro   0x00000000      0x269 build/components/peripheral/src/usart.o
+ .debug_macro   0x00000000      0x906 build/components/peripheral/src/usart.o
+ .debug_macro   0x00000000       0x45 build/components/peripheral/src/usart.o
+ .debug_macro   0x00000000       0x22 build/components/peripheral/src/usart.o
 
 Memory Configuration
 
@@ -14,6 +841,26 @@ Linker script and memory map
 LOAD build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
 LOAD build/components/core/src/main.o
 LOAD build/components/core/src/startup_stm32wle5jcix.o
+LOAD build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+LOAD build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+LOAD build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+LOAD build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+LOAD build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+LOAD build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+LOAD build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+LOAD build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+LOAD build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+LOAD build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+LOAD build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+LOAD build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+LOAD build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+LOAD build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+LOAD build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+LOAD build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+LOAD build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+LOAD build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+LOAD build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+LOAD build/components/peripheral/src/usart.o
                 0x20010000                        _estack = (ORIGIN (RAM) + LENGTH (RAM))
                 0x00000200                        _Min_Heap_Size = 0x200
                 0x00000400                        _Min_Stack_Size = 0x400
@@ -25,160 +872,290 @@ LOAD build/components/core/src/startup_stm32wle5jcix.o
                 0x08000000                g_pfnVectors
                 0x08000138                        . = ALIGN (0x4)
 
-.text           0x08000138      0x1e4
+.text           0x08000138     0x69c0
                 0x08000138                        . = ALIGN (0x4)
  *(.text)
  .text          0x08000138      0x174 build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
                 0x08000138                SystemInit
                 0x08000144                SystemCoreClockUpdate
- .text          0x080002ac        0xc build/components/core/src/main.o
-                0x080002ac                main
- .text          0x080002b8       0x14 build/components/core/src/startup_stm32wle5jcix.o
+ .text          0x080002ac      0x4cc build/components/core/src/main.o
+                0x08000730                main
+ .text          0x08000778       0x14 build/components/core/src/startup_stm32wle5jcix.o
+ .text          0x0800078c      0x500 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+                0x08000928                LL_ADC_CommonDeInit
+                0x0800094a                LL_ADC_CommonInit
+                0x08000984                LL_ADC_CommonStructInit
+                0x0800099e                LL_ADC_DeInit
+                0x08000b10                LL_ADC_Init
+                0x08000b6e                LL_ADC_StructInit
+                0x08000b9a                LL_ADC_REG_Init
+                0x08000c54                LL_ADC_REG_StructInit
+ .text          0x08000c8c       0xf0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+                0x08000cb2                LL_COMP_DeInit
+                0x08000ce0                LL_COMP_Init
+                0x08000d40                LL_COMP_StructInit
+ .text          0x08000d7c       0x80 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+                0x08000dc2                LL_CRC_DeInit
+ .text          0x08000dfc      0x14e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+                0x08000e68                LL_DAC_DeInit
+                0x08000e8a                LL_DAC_Init
+                0x08000f14                LL_DAC_StructInit
+ *fill*         0x08000f4a        0x2 
+ .text          0x08000f4c      0x548 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+                0x08001196                LL_DMA_DeInit
+                0x080013c0                LL_DMA_Init
+                0x08001440                LL_DMA_StructInit
+ .text          0x08001494      0x4d8 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+                0x080016f4                LL_EXTI_DeInit
+                0x0800175c                LL_EXTI_Init
+                0x0800193c                LL_EXTI_StructInit
+ .text          0x0800196c      0x464 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+                0x08001c3c                LL_GPIO_DeInit
+                0x08001cbc                LL_GPIO_Init
+                0x08001d96                LL_GPIO_StructInit
+ .text          0x08001dd0      0x2a8 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+                0x08001f4a                LL_I2C_DeInit
+                0x08001fc0                LL_I2C_Init
+                0x08002038                LL_I2C_StructInit
+ .text          0x08002078      0x498 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+                0x08002246                LL_LPTIM_DeInit
+                0x080022b4                LL_LPTIM_StructInit
+                0x080022de                LL_LPTIM_Init
+                0x08002330                LL_LPTIM_Disable
+ .text          0x08002510      0x1dc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+                0x080025e8                LL_LPUART_DeInit
+                0x0800261c                LL_LPUART_Init
+                0x080026ac                LL_LPUART_StructInit
+ .text          0x080026ec       0xdc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+                0x08002758                LL_PKA_DeInit
+                0x08002790                LL_PKA_Init
+                0x080027b0                LL_PKA_StructInit
+ .text          0x080027c8       0x74 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+                0x080027c8                LL_PWR_DeInit
+ .text          0x0800283c     0x135c build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+                0x08002c7a                LL_RCC_DeInit
+                0x08002d10                LL_RCC_GetSystemClocksFreq
+                0x08002d6a                LL_RCC_GetUSARTClockFreq
+                0x08002e70                LL_RCC_GetI2CClockFreq
+                0x08002f90                LL_RCC_GetLPUARTClockFreq
+                0x08003014                LL_RCC_GetLPTIMClockFreq
+                0x080031f8                LL_RCC_GetRNGClockFreq
+                0x08003300                LL_RCC_GetI2SClockFreq
+                0x0800336c                LL_RCC_GetADCClockFreq
+                0x080033ec                LL_RCC_GetRTCClockFreq
+ .text          0x08003b98       0xd4 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+                0x08003bde                LL_RNG_DeInit
+                0x08003c18                LL_RNG_Init
+                0x08003c54                LL_RNG_StructInit
+ .text          0x08003c6c      0xcf0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+                0x08004098                LL_RTC_DeInit
+                0x08004140                LL_RTC_Init
+                0x0800419e                LL_RTC_StructInit
+                0x080041c2                LL_RTC_TIME_Init
+                0x0800430c                LL_RTC_TIME_StructInit
+                0x08004336                LL_RTC_DATE_Init
+                0x0800447c                LL_RTC_DATE_StructInit
+                0x080044a6                LL_RTC_ALMA_Init
+                0x08004638                LL_RTC_ALMB_Init
+                0x080047c8                LL_RTC_ALMA_StructInit
+                0x08004804                LL_RTC_ALMB_StructInit
+                0x08004840                LL_RTC_EnterInitMode
+                0x080048a6                LL_RTC_ExitInitMode
+                0x080048be                LL_RTC_WaitForSynchro
+ .text          0x0800495c      0x418 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+                0x08004a74                LL_SPI_DeInit
+                0x08004acc                LL_SPI_Init
+                0x08004b88                LL_SPI_StructInit
+                0x08004bd8                LL_I2S_DeInit
+                0x08004bf0                LL_I2S_Init
+                0x08004d0c                LL_I2S_StructInit
+                0x08004d42                LL_I2S_ConfigPrescaler
+ .text          0x08004d74      0xe94 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+                0x08004f3a                LL_TIM_DeInit
+                0x08004fc4                LL_TIM_StructInit
+                0x08004ff6                LL_TIM_Init
+                0x080050b0                LL_TIM_OC_StructInit
+                0x080050f2                LL_TIM_OC_Init
+                0x080051b0                LL_TIM_IC_StructInit
+                0x080051dc                LL_TIM_IC_Init
+                0x0800525e                LL_TIM_ENCODER_StructInit
+                0x080052aa                LL_TIM_ENCODER_Init
+                0x0800536c                LL_TIM_HALLSENSOR_StructInit
+                0x08005396                LL_TIM_HALLSENSOR_Init
+                0x08005474                LL_TIM_BDTR_StructInit
+                0x080054d4                LL_TIM_BDTR_Init
+ .text          0x08005c08      0x398 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+                0x08005dc4                LL_USART_DeInit
+                0x08005e1c                LL_USART_Init
+                0x08005ee4                LL_USART_StructInit
+                0x08005f28                LL_USART_ClockInit
+                0x08005f76                LL_USART_ClockStructInit
+ .text          0x08005fa0      0x8b0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+                0x080062fc                LL_Init1msTick
+                0x08006316                LL_mDelay
+                0x08006364                LL_SetSystemCoreClock
+                0x08006380                LL_SetFlashLatency
+                0x080064bc                LL_PLL_ConfigSystemClock_MSI
+                0x080065dc                LL_PLL_ConfigSystemClock_HSI
+                0x08006650                LL_PLL_ConfigSystemClock_HSE
+ .text          0x08006850      0x258 build/components/peripheral/src/usart.o
+                0x080069dc                MX_LPUART1_UART_Init
  *(.text*)
  .text.Reset_Handler
-                0x080002cc       0x4c build/components/core/src/startup_stm32wle5jcix.o
-                0x080002cc                Reset_Handler
+                0x08006aa8       0x4c build/components/core/src/startup_stm32wle5jcix.o
+                0x08006aa8                Reset_Handler
  .text.Default_Handler
-                0x08000318        0x2 build/components/core/src/startup_stm32wle5jcix.o
-                0x08000318                DMA2_Channel3_IRQHandler
-                0x08000318                EXTI2_IRQHandler
-                0x08000318                DebugMon_Handler
-                0x08000318                TIM1_CC_IRQHandler
-                0x08000318                HardFault_Handler
-                0x08000318                SysTick_Handler
-                0x08000318                PendSV_Handler
-                0x08000318                NMI_Handler
-                0x08000318                EXTI3_IRQHandler
-                0x08000318                LPTIM2_IRQHandler
-                0x08000318                I2C3_ER_IRQHandler
-                0x08000318                LPTIM3_IRQHandler
-                0x08000318                EXTI0_IRQHandler
-                0x08000318                I2C2_EV_IRQHandler
-                0x08000318                UsageFault_Handler
-                0x08000318                TAMP_STAMP_LSECSS_SSRU_IRQHandler
-                0x08000318                SPI1_IRQHandler
-                0x08000318                DMA2_Channel2_IRQHandler
-                0x08000318                DMA1_Channel4_IRQHandler
-                0x08000318                PKA_IRQHandler
-                0x08000318                TIM17_IRQHandler
-                0x08000318                DMA1_Channel7_IRQHandler
-                0x08000318                SUBGHZSPI_IRQHandler
-                0x08000318                DMA2_Channel1_IRQHandler
-                0x08000318                I2C1_EV_IRQHandler
-                0x08000318                SUBGHZ_Radio_IRQHandler
-                0x08000318                DMAMUX1_OVR_IRQHandler
-                0x08000318                DMA1_Channel6_IRQHandler
-                0x08000318                TIM16_IRQHandler
-                0x08000318                DMA2_Channel4_IRQHandler
-                0x08000318                RCC_IRQHandler
-                0x08000318                TIM1_TRG_COM_IRQHandler
-                0x08000318                DMA1_Channel1_IRQHandler
-                0x08000318                Default_Handler
-                0x08000318                DMA2_Channel7_IRQHandler
-                0x08000318                EXTI15_10_IRQHandler
-                0x08000318                ADC_IRQHandler
-                0x08000318                I2C3_EV_IRQHandler
-                0x08000318                EXTI9_5_IRQHandler
-                0x08000318                RTC_WKUP_IRQHandler
-                0x08000318                PVD_PVM_IRQHandler
-                0x08000318                SPI2_IRQHandler
-                0x08000318                MemManage_Handler
-                0x08000318                SVC_Handler
-                0x08000318                DMA2_Channel5_IRQHandler
-                0x08000318                DMA1_Channel5_IRQHandler
-                0x08000318                EXTI4_IRQHandler
-                0x08000318                RNG_IRQHandler
-                0x08000318                DMA1_Channel3_IRQHandler
-                0x08000318                COMP_IRQHandler
-                0x08000318                HSEM_IRQHandler
-                0x08000318                TIM1_UP_IRQHandler
-                0x08000318                WWDG_IRQHandler
-                0x08000318                LPUART1_IRQHandler
-                0x08000318                DMA2_Channel6_IRQHandler
-                0x08000318                TIM2_IRQHandler
-                0x08000318                TIM1_BRK_IRQHandler
-                0x08000318                DAC_IRQHandler
-                0x08000318                EXTI1_IRQHandler
-                0x08000318                AES_IRQHandler
-                0x08000318                USART2_IRQHandler
-                0x08000318                I2C2_ER_IRQHandler
-                0x08000318                DMA1_Channel2_IRQHandler
-                0x08000318                FLASH_IRQHandler
-                0x08000318                BusFault_Handler
-                0x08000318                USART1_IRQHandler
-                0x08000318                I2C1_ER_IRQHandler
-                0x08000318                LPTIM1_IRQHandler
-                0x08000318                RTC_Alarm_IRQHandler
+                0x08006af4        0x2 build/components/core/src/startup_stm32wle5jcix.o
+                0x08006af4                DMA2_Channel3_IRQHandler
+                0x08006af4                EXTI2_IRQHandler
+                0x08006af4                DebugMon_Handler
+                0x08006af4                TIM1_CC_IRQHandler
+                0x08006af4                HardFault_Handler
+                0x08006af4                SysTick_Handler
+                0x08006af4                PendSV_Handler
+                0x08006af4                NMI_Handler
+                0x08006af4                EXTI3_IRQHandler
+                0x08006af4                LPTIM2_IRQHandler
+                0x08006af4                I2C3_ER_IRQHandler
+                0x08006af4                LPTIM3_IRQHandler
+                0x08006af4                EXTI0_IRQHandler
+                0x08006af4                I2C2_EV_IRQHandler
+                0x08006af4                UsageFault_Handler
+                0x08006af4                TAMP_STAMP_LSECSS_SSRU_IRQHandler
+                0x08006af4                SPI1_IRQHandler
+                0x08006af4                DMA2_Channel2_IRQHandler
+                0x08006af4                DMA1_Channel4_IRQHandler
+                0x08006af4                PKA_IRQHandler
+                0x08006af4                TIM17_IRQHandler
+                0x08006af4                DMA1_Channel7_IRQHandler
+                0x08006af4                SUBGHZSPI_IRQHandler
+                0x08006af4                DMA2_Channel1_IRQHandler
+                0x08006af4                I2C1_EV_IRQHandler
+                0x08006af4                SUBGHZ_Radio_IRQHandler
+                0x08006af4                DMAMUX1_OVR_IRQHandler
+                0x08006af4                DMA1_Channel6_IRQHandler
+                0x08006af4                TIM16_IRQHandler
+                0x08006af4                DMA2_Channel4_IRQHandler
+                0x08006af4                RCC_IRQHandler
+                0x08006af4                TIM1_TRG_COM_IRQHandler
+                0x08006af4                DMA1_Channel1_IRQHandler
+                0x08006af4                Default_Handler
+                0x08006af4                DMA2_Channel7_IRQHandler
+                0x08006af4                EXTI15_10_IRQHandler
+                0x08006af4                ADC_IRQHandler
+                0x08006af4                I2C3_EV_IRQHandler
+                0x08006af4                EXTI9_5_IRQHandler
+                0x08006af4                RTC_WKUP_IRQHandler
+                0x08006af4                PVD_PVM_IRQHandler
+                0x08006af4                SPI2_IRQHandler
+                0x08006af4                MemManage_Handler
+                0x08006af4                SVC_Handler
+                0x08006af4                DMA2_Channel5_IRQHandler
+                0x08006af4                DMA1_Channel5_IRQHandler
+                0x08006af4                EXTI4_IRQHandler
+                0x08006af4                RNG_IRQHandler
+                0x08006af4                DMA1_Channel3_IRQHandler
+                0x08006af4                COMP_IRQHandler
+                0x08006af4                HSEM_IRQHandler
+                0x08006af4                TIM1_UP_IRQHandler
+                0x08006af4                WWDG_IRQHandler
+                0x08006af4                LPUART1_IRQHandler
+                0x08006af4                DMA2_Channel6_IRQHandler
+                0x08006af4                TIM2_IRQHandler
+                0x08006af4                TIM1_BRK_IRQHandler
+                0x08006af4                DAC_IRQHandler
+                0x08006af4                EXTI1_IRQHandler
+                0x08006af4                AES_IRQHandler
+                0x08006af4                USART2_IRQHandler
+                0x08006af4                I2C2_ER_IRQHandler
+                0x08006af4                DMA1_Channel2_IRQHandler
+                0x08006af4                FLASH_IRQHandler
+                0x08006af4                BusFault_Handler
+                0x08006af4                USART1_IRQHandler
+                0x08006af4                I2C1_ER_IRQHandler
+                0x08006af4                LPTIM1_IRQHandler
+                0x08006af4                RTC_Alarm_IRQHandler
  *(.glue_7)
- .glue_7        0x0800031a        0x0 linker stubs
+ .glue_7        0x08006af6        0x0 linker stubs
  *(.glue_7t)
- .glue_7t       0x0800031a        0x0 linker stubs
+ .glue_7t       0x08006af6        0x0 linker stubs
  *(.eh_frame)
  *(.init)
  *(.fini)
-                0x0800031c                        . = ALIGN (0x4)
- *fill*         0x0800031a        0x2 
-                0x0800031c                        _etext = .
+                0x08006af8                        . = ALIGN (0x4)
+ *fill*         0x08006af6        0x2 
+                0x08006af8                        _etext = .
 
-.vfp11_veneer   0x0800031c        0x0
- .vfp11_veneer  0x0800031c        0x0 linker stubs
+.vfp11_veneer   0x08006af8        0x0
+ .vfp11_veneer  0x08006af8        0x0 linker stubs
 
-.v4_bx          0x0800031c        0x0
- .v4_bx         0x0800031c        0x0 linker stubs
+.v4_bx          0x08006af8        0x0
+ .v4_bx         0x08006af8        0x0 linker stubs
 
-.iplt           0x0800031c        0x0
- .iplt          0x0800031c        0x0 build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+.iplt           0x08006af8        0x0
+ .iplt          0x08006af8        0x0 build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
 
-.rodata         0x0800031c       0xa0
-                0x0800031c                        . = ALIGN (0x4)
+.rodata         0x08006af8      0x230
+                0x08006af8                        . = ALIGN (0x4)
  *(.rodata)
- .rodata        0x0800031c       0xa0 build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
-                0x0800031c                AHBPrescTable
-                0x0800035c                APBPrescTable
-                0x0800037c                MSIRangeTable
+ .rodata        0x08006af8       0xa0 build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+                0x08006af8                AHBPrescTable
+                0x08006b38                APBPrescTable
+                0x08006b58                MSIRangeTable
+ .rodata        0x08006b98       0x61 build/components/core/src/main.o
+ *fill*         0x08006bf9        0x3 
+ .rodata        0x08006bfc        0x7 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ *fill*         0x08006c03        0x1 
+ .rodata        0x08006c04       0x20 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .rodata        0x08006c24       0x39 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ *fill*         0x08006c5d        0x3 
+ .rodata        0x08006c60       0x40 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .rodata        0x08006ca0       0x24 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .rodata        0x08006cc4       0x61 build/components/peripheral/src/usart.o
  *(.rodata*)
-                0x080003bc                        . = ALIGN (0x4)
+                0x08006d28                        . = ALIGN (0x4)
+ *fill*         0x08006d25        0x3 
 
-.rel.dyn        0x080003bc        0x0
- .rel.iplt      0x080003bc        0x0 build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+.rel.dyn        0x08006d28        0x0
+ .rel.iplt      0x08006d28        0x0 build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
 
-.ARM.extab      0x080003bc        0x0
-                0x080003bc                        . = ALIGN (0x4)
+.ARM.extab      0x08006d28        0x0
+                0x08006d28                        . = ALIGN (0x4)
  *(.ARM.extab* .gnu.linkonce.armextab.*)
-                0x080003bc                        . = ALIGN (0x4)
+                0x08006d28                        . = ALIGN (0x4)
 
-.ARM            0x080003bc        0x0
-                0x080003bc                        . = ALIGN (0x4)
-                0x080003bc                        __exidx_start = .
+.ARM            0x08006d28        0x0
+                0x08006d28                        . = ALIGN (0x4)
+                0x08006d28                        __exidx_start = .
  *(.ARM.exidx*)
-                0x080003bc                        __exidx_end = .
-                0x080003bc                        . = ALIGN (0x4)
+                0x08006d28                        __exidx_end = .
+                0x08006d28                        . = ALIGN (0x4)
 
-.preinit_array  0x080003bc        0x0
-                0x080003bc                        . = ALIGN (0x4)
+.preinit_array  0x08006d28        0x0
+                0x08006d28                        . = ALIGN (0x4)
                 [!provide]                        PROVIDE (__preinit_array_start = .)
  *(.preinit_array*)
                 [!provide]                        PROVIDE (__preinit_array_end = .)
-                0x080003bc                        . = ALIGN (0x4)
+                0x08006d28                        . = ALIGN (0x4)
 
-.init_array     0x080003bc        0x0
-                0x080003bc                        . = ALIGN (0x4)
+.init_array     0x08006d28        0x0
+                0x08006d28                        . = ALIGN (0x4)
                 [!provide]                        PROVIDE (__init_array_start = .)
  *(SORT_BY_NAME(.init_array.*))
  *(.init_array*)
                 [!provide]                        PROVIDE (__init_array_end = .)
-                0x080003bc                        . = ALIGN (0x4)
+                0x08006d28                        . = ALIGN (0x4)
 
-.fini_array     0x080003bc        0x0
-                0x080003bc                        . = ALIGN (0x4)
+.fini_array     0x08006d28        0x0
+                0x08006d28                        . = ALIGN (0x4)
                 [!provide]                        PROVIDE (__fini_array_start = .)
  *(SORT_BY_NAME(.fini_array.*))
  *(.fini_array*)
                 [!provide]                        PROVIDE (__fini_array_end = .)
-                0x080003bc                        . = ALIGN (0x4)
-                0x080003bc                        _sidata = LOADADDR (.data)
+                0x08006d28                        . = ALIGN (0x4)
+                0x08006d28                        _sidata = LOADADDR (.data)
 
-.data           0x20000000        0x4 load address 0x080003bc
+.data           0x20000000        0x4 load address 0x08006d28
                 0x20000000                        . = ALIGN (0x4)
                 0x20000000                        _sdata = .
  *(.data)
@@ -186,23 +1163,63 @@ LOAD build/components/core/src/startup_stm32wle5jcix.o
                 0x20000000                SystemCoreClock
  .data          0x20000004        0x0 build/components/core/src/main.o
  .data          0x20000004        0x0 build/components/core/src/startup_stm32wle5jcix.o
+ .data          0x20000004        0x0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .data          0x20000004        0x0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .data          0x20000004        0x0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .data          0x20000004        0x0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .data          0x20000004        0x0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .data          0x20000004        0x0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .data          0x20000004        0x0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .data          0x20000004        0x0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .data          0x20000004        0x0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .data          0x20000004        0x0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .data          0x20000004        0x0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .data          0x20000004        0x0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .data          0x20000004        0x0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .data          0x20000004        0x0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .data          0x20000004        0x0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .data          0x20000004        0x0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .data          0x20000004        0x0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .data          0x20000004        0x0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .data          0x20000004        0x0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .data          0x20000004        0x0 build/components/peripheral/src/usart.o
  *(.data*)
  *(.RamFunc)
  *(.RamFunc*)
                 0x20000004                        . = ALIGN (0x4)
                 0x20000004                        _edata = .
 
-.igot.plt       0x20000004        0x0 load address 0x080003c0
+.igot.plt       0x20000004        0x0 load address 0x08006d2c
  .igot.plt      0x20000004        0x0 build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
                 0x20000004                        . = ALIGN (0x4)
 
-.bss            0x20000004        0x0 load address 0x080003c0
+.bss            0x20000004        0x0 load address 0x08006d2c
                 0x20000004                        _sbss = .
                 0x20000004                        __bss_start__ = _sbss
  *(.bss)
  .bss           0x20000004        0x0 build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
  .bss           0x20000004        0x0 build/components/core/src/main.o
  .bss           0x20000004        0x0 build/components/core/src/startup_stm32wle5jcix.o
+ .bss           0x20000004        0x0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .bss           0x20000004        0x0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .bss           0x20000004        0x0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .bss           0x20000004        0x0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .bss           0x20000004        0x0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .bss           0x20000004        0x0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .bss           0x20000004        0x0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .bss           0x20000004        0x0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .bss           0x20000004        0x0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .bss           0x20000004        0x0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .bss           0x20000004        0x0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .bss           0x20000004        0x0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .bss           0x20000004        0x0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .bss           0x20000004        0x0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .bss           0x20000004        0x0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .bss           0x20000004        0x0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .bss           0x20000004        0x0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .bss           0x20000004        0x0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .bss           0x20000004        0x0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .bss           0x20000004        0x0 build/components/peripheral/src/usart.o
  *(.bss*)
  *(COMMON)
                 0x20000004                        . = ALIGN (0x4)
@@ -210,7 +1227,7 @@ LOAD build/components/core/src/startup_stm32wle5jcix.o
                 0x20000004                        __bss_end__ = _ebss
 
 ._user_heap_stack
-                0x20000004      0x604 load address 0x080003c0
+                0x20000004      0x604 load address 0x08006d2c
                 0x20000008                        . = ALIGN (0x8)
  *fill*         0x20000004        0x4 
                 [!provide]                        PROVIDE (end = .)
@@ -235,13 +1252,369 @@ LOAD build/components/core/src/startup_stm32wle5jcix.o
                 0x0000002e       0x2e build/components/core/src/main.o
  .ARM.attributes
                 0x0000005c       0x21 build/components/core/src/startup_stm32wle5jcix.o
+ .ARM.attributes
+                0x0000007d       0x2e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .ARM.attributes
+                0x000000ab       0x2e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .ARM.attributes
+                0x000000d9       0x2e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .ARM.attributes
+                0x00000107       0x2e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .ARM.attributes
+                0x00000135       0x2e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .ARM.attributes
+                0x00000163       0x2e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .ARM.attributes
+                0x00000191       0x2e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .ARM.attributes
+                0x000001bf       0x2e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .ARM.attributes
+                0x000001ed       0x2e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .ARM.attributes
+                0x0000021b       0x2e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .ARM.attributes
+                0x00000249       0x2e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .ARM.attributes
+                0x00000277       0x2e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .ARM.attributes
+                0x000002a5       0x2e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .ARM.attributes
+                0x000002d3       0x2e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .ARM.attributes
+                0x00000301       0x2e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .ARM.attributes
+                0x0000032f       0x2e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .ARM.attributes
+                0x0000035d       0x2e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .ARM.attributes
+                0x0000038b       0x2e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .ARM.attributes
+                0x000003b9       0x2e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .ARM.attributes
+                0x000003e7       0x2e build/components/peripheral/src/usart.o
 OUTPUT(build/program.elf elf32-littlearm)
 LOAD linker stubs
 LOAD /Applications/ArmGNUToolchain/14.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/libc.a
 LOAD /Applications/ArmGNUToolchain/14.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/libm.a
 LOAD /Applications/ArmGNUToolchain/14.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/libgcc.a
 
+.debug_info     0x00000000     0xca31
+ .debug_info    0x00000000      0x470 build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+ .debug_info    0x00000470     0x113c build/components/core/src/main.o
+ .debug_info    0x000015ac       0x30 build/components/core/src/startup_stm32wle5jcix.o
+ .debug_info    0x000015dc      0xa71 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .debug_info    0x0000204d      0x251 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .debug_info    0x0000229e      0x46f build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .debug_info    0x0000270d      0x696 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .debug_info    0x00002da3      0x96c build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .debug_info    0x0000370f      0x608 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .debug_info    0x00003d17      0xad2 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .debug_info    0x000047e9      0x7c4 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .debug_info    0x00004fad      0x963 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .debug_info    0x00005910      0x73a build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .debug_info    0x0000604a      0x562 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .debug_info    0x000065ac      0x25a build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .debug_info    0x00006806      0xd08 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .debug_info    0x0000750e      0x50b build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .debug_info    0x00007a19     0x10dc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .debug_info    0x00008af5      0x981 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .debug_info    0x00009476     0x13b1 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .debug_info    0x0000a827      0x926 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .debug_info    0x0000b14d      0xe6e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .debug_info    0x0000bfbb      0xa76 build/components/peripheral/src/usart.o
+
+.debug_abbrev   0x00000000     0x2765
+ .debug_abbrev  0x00000000      0x116 build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+ .debug_abbrev  0x00000116      0x207 build/components/core/src/main.o
+ .debug_abbrev  0x0000031d       0x1d build/components/core/src/startup_stm32wle5jcix.o
+ .debug_abbrev  0x0000033a      0x1eb build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .debug_abbrev  0x00000525      0x129 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .debug_abbrev  0x0000064e      0x175 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .debug_abbrev  0x000007c3      0x191 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .debug_abbrev  0x00000954      0x1ba build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .debug_abbrev  0x00000b0e      0x195 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .debug_abbrev  0x00000ca3      0x239 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .debug_abbrev  0x00000edc      0x18f build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .debug_abbrev  0x0000106b      0x245 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .debug_abbrev  0x000012b0      0x1af build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .debug_abbrev  0x0000145f      0x189 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .debug_abbrev  0x000015e8       0xcd build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .debug_abbrev  0x000016b5      0x214 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .debug_abbrev  0x000018c9      0x1ad build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .debug_abbrev  0x00001a76      0x227 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .debug_abbrev  0x00001c9d      0x236 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .debug_abbrev  0x00001ed3      0x214 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .debug_abbrev  0x000020e7      0x1de build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .debug_abbrev  0x000022c5      0x266 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .debug_abbrev  0x0000252b      0x23a build/components/peripheral/src/usart.o
+
+.debug_loc      0x00000000     0x7b4c
+ .debug_loc     0x00000000       0xa0 build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+ .debug_loc     0x000000a0      0x858 build/components/core/src/main.o
+ .debug_loc     0x000008f8      0x6f4 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .debug_loc     0x00000fec      0x158 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .debug_loc     0x00001144      0x108 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .debug_loc     0x0000124c      0x210 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .debug_loc     0x0000145c      0x604 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .debug_loc     0x00001a60      0x6b0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .debug_loc     0x00002110      0x3dc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .debug_loc     0x000024ec      0x4f0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .debug_loc     0x000029dc      0x5fa build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .debug_loc     0x00002fd6      0x324 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .debug_loc     0x000032fa      0x210 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .debug_loc     0x0000350a       0x44 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .debug_loc     0x0000354e     0x10b4 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .debug_loc     0x00004602      0x1c0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .debug_loc     0x000047c2      0xe38 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .debug_loc     0x000055fa      0x536 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .debug_loc     0x00005b30      0xd18 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .debug_loc     0x00006848      0x4e4 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .debug_loc     0x00006d2c      0xaee build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .debug_loc     0x0000781a      0x332 build/components/peripheral/src/usart.o
+
+.debug_aranges  0x00000000      0x2e8
+ .debug_aranges
+                0x00000000       0x20 build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+ .debug_aranges
+                0x00000020       0x20 build/components/core/src/main.o
+ .debug_aranges
+                0x00000040       0x28 build/components/core/src/startup_stm32wle5jcix.o
+ .debug_aranges
+                0x00000068       0x20 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .debug_aranges
+                0x00000088       0x20 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .debug_aranges
+                0x000000a8       0x20 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .debug_aranges
+                0x000000c8       0x20 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .debug_aranges
+                0x000000e8       0x20 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .debug_aranges
+                0x00000108       0x20 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .debug_aranges
+                0x00000128       0x20 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .debug_aranges
+                0x00000148       0x20 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .debug_aranges
+                0x00000168       0x20 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .debug_aranges
+                0x00000188       0x20 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .debug_aranges
+                0x000001a8       0x20 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .debug_aranges
+                0x000001c8       0x20 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .debug_aranges
+                0x000001e8       0x20 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .debug_aranges
+                0x00000208       0x20 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .debug_aranges
+                0x00000228       0x20 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .debug_aranges
+                0x00000248       0x20 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .debug_aranges
+                0x00000268       0x20 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .debug_aranges
+                0x00000288       0x20 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .debug_aranges
+                0x000002a8       0x20 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .debug_aranges
+                0x000002c8       0x20 build/components/peripheral/src/usart.o
+
+.debug_macro    0x00000000    0x17716
+ .debug_macro   0x00000000       0xd3 build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+ .debug_macro   0x000000d3      0xb14 build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+ .debug_macro   0x00000be7       0x2e build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+ .debug_macro   0x00000c15       0x34 build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+ .debug_macro   0x00000c49       0x22 build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+ .debug_macro   0x00000c6b       0x8e build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+ .debug_macro   0x00000cf9       0x51 build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+ .debug_macro   0x00000d4a      0x103 build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+ .debug_macro   0x00000e4d       0x6a build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+ .debug_macro   0x00000eb7      0x1df build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+ .debug_macro   0x00001096       0x1c build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+ .debug_macro   0x000010b2       0x22 build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+ .debug_macro   0x000010d4       0xfb build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+ .debug_macro   0x000011cf     0x1011 build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+ .debug_macro   0x000021e0      0x11f build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+ .debug_macro   0x000022ff     0xce53 build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+ .debug_macro   0x0000f152       0x6d build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+ .debug_macro   0x0000f1bf      0x2b1 build/components/core/src/main.o
+ .debug_macro   0x0000f470      0x892 build/components/core/src/main.o
+ .debug_macro   0x0000fd02      0x113 build/components/core/src/main.o
+ .debug_macro   0x0000fe15      0x1a4 build/components/core/src/main.o
+ .debug_macro   0x0000ffb9      0x416 build/components/core/src/main.o
+ .debug_macro   0x000103cf      0x287 build/components/core/src/main.o
+ .debug_macro   0x00010656      0x14d build/components/core/src/main.o
+ .debug_macro   0x000107a3      0x14a build/components/core/src/main.o
+ .debug_macro   0x000108ed      0x24d build/components/core/src/main.o
+ .debug_macro   0x00010b3a      0x224 build/components/core/src/main.o
+ .debug_macro   0x00010d5e      0x317 build/components/core/src/main.o
+ .debug_macro   0x00011075      0x25f build/components/core/src/main.o
+ .debug_macro   0x000112d4      0x684 build/components/core/src/main.o
+ .debug_macro   0x00011958      0x269 build/components/core/src/main.o
+ .debug_macro   0x00011bc1      0x906 build/components/core/src/main.o
+ .debug_macro   0x000124c7       0x45 build/components/core/src/main.o
+ .debug_macro   0x0001250c       0x22 build/components/core/src/main.o
+ .debug_macro   0x0001252e       0x7b build/components/core/src/main.o
+ .debug_macro   0x000125a9       0x24 build/components/core/src/main.o
+ .debug_macro   0x000125cd       0x3c build/components/core/src/main.o
+ .debug_macro   0x00012609       0x34 build/components/core/src/main.o
+ .debug_macro   0x0001263d      0x190 build/components/core/src/main.o
+ .debug_macro   0x000127cd      0x364 build/components/core/src/main.o
+ .debug_macro   0x00012b31       0x16 build/components/core/src/main.o
+ .debug_macro   0x00012b47       0x4a build/components/core/src/main.o
+ .debug_macro   0x00012b91       0x34 build/components/core/src/main.o
+ .debug_macro   0x00012bc5       0x10 build/components/core/src/main.o
+ .debug_macro   0x00012bd5       0x58 build/components/core/src/main.o
+ .debug_macro   0x00012c2d      0x1e5 build/components/core/src/main.o
+ .debug_macro   0x00012e12      0x19b build/components/core/src/main.o
+ .debug_macro   0x00012fad       0x58 build/components/core/src/main.o
+ .debug_macro   0x00013005       0x1c build/components/core/src/main.o
+ .debug_macro   0x00013021       0x3c build/components/core/src/main.o
+ .debug_macro   0x0001305d       0x1c build/components/core/src/main.o
+ .debug_macro   0x00013079       0x16 build/components/core/src/main.o
+ .debug_macro   0x0001308f      0x170 build/components/core/src/main.o
+ .debug_macro   0x000131ff       0x16 build/components/core/src/main.o
+ .debug_macro   0x00013215       0x16 build/components/core/src/main.o
+ .debug_macro   0x0001322b       0x29 build/components/core/src/main.o
+ .debug_macro   0x00013254       0x16 build/components/core/src/main.o
+ .debug_macro   0x0001326a      0x158 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .debug_macro   0x000133c2      0x106 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .debug_macro   0x000134c8       0xef build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .debug_macro   0x000135b7       0xeb build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .debug_macro   0x000136a2       0x59 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .debug_macro   0x000136fb      0x115 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .debug_macro   0x00013810      0x23e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .debug_macro   0x00013a4e      0x130 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .debug_macro   0x00013b7e       0xfa build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .debug_macro   0x00013c78      0x147 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .debug_macro   0x00013dbf      0x10f build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .debug_macro   0x00013ece      0x144 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .debug_macro   0x00014012      0x10f build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .debug_macro   0x00014121      0x247 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .debug_macro   0x00014368      0x10c build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .debug_macro   0x00014474      0x21e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .debug_macro   0x00014692      0x130 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .debug_macro   0x000147c2      0x311 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .debug_macro   0x00014ad3       0xf1 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .debug_macro   0x00014bc4       0xba build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .debug_macro   0x00014c7e      0x133 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .debug_macro   0x00014db1      0x259 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .debug_macro   0x0001500a      0x10c build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .debug_macro   0x00015116      0x67e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .debug_macro   0x00015794      0x10f build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .debug_macro   0x000158a3       0xba build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .debug_macro   0x0001595d      0x169 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .debug_macro   0x00015ac6      0x4fa build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .debug_macro   0x00015fc0      0x17c build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .debug_macro   0x0001613c      0x2ea build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .debug_macro   0x00016426      0x184 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .debug_macro   0x000165aa      0x900 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .debug_macro   0x00016eaa      0x148 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .debug_macro   0x00016ff2      0x409 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .debug_macro   0x000173fb      0x163 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .debug_macro   0x0001755e       0x3f build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .debug_macro   0x0001759d      0x179 build/components/peripheral/src/usart.o
+
+.debug_line     0x00000000     0x7912
+ .debug_line    0x00000000      0x384 build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+ .debug_line    0x00000384      0x7a1 build/components/core/src/main.o
+ .debug_line    0x00000b25       0x89 build/components/core/src/startup_stm32wle5jcix.o
+ .debug_line    0x00000bae      0x55d build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .debug_line    0x0000110b      0x383 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .debug_line    0x0000148e      0x359 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .debug_line    0x000017e7      0x3a9 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .debug_line    0x00001b90      0x56b build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .debug_line    0x000020fb      0x467 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .debug_line    0x00002562      0x5eb build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .debug_line    0x00002b4d      0x409 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .debug_line    0x00002f56      0x59d build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .debug_line    0x000034f3      0x41e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .debug_line    0x00003911      0x37a build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .debug_line    0x00003c8b      0x34a build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .debug_line    0x00003fd5      0xeed build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .debug_line    0x00004ec2      0x36f build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .debug_line    0x00005231      0x83f build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .debug_line    0x00005a70      0x4c4 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .debug_line    0x00005f34      0x7ab build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .debug_line    0x000066df      0x48d build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .debug_line    0x00006b6c      0x7c4 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .debug_line    0x00007330      0x5e2 build/components/peripheral/src/usart.o
+
+.debug_str      0x00000000    0x83da1
+ .debug_str     0x00000000    0x83da1 build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+                              0x553e9 (size before relaxing)
+ .debug_str     0x00083da1    0x714a4 build/components/core/src/main.o
+ .debug_str     0x00083da1       0x81 build/components/core/src/startup_stm32wle5jcix.o
+ .debug_str     0x00083da1    0x5bdea build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .debug_str     0x00083da1    0x561a0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .debug_str     0x00083da1    0x55e1a build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .debug_str     0x00083da1    0x57c80 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .debug_str     0x00083da1    0x59a22 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .debug_str     0x00083da1    0x55e57 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .debug_str     0x00083da1    0x56920 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .debug_str     0x00083da1    0x56f2b build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .debug_str     0x00083da1    0x5a4bc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .debug_str     0x00083da1    0x5acd4 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .debug_str     0x00083da1    0x564da build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .debug_str     0x00083da1    0x5699e build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .debug_str     0x00083da1    0x592c5 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .debug_str     0x00083da1    0x56320 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .debug_str     0x00083da1    0x58c73 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .debug_str     0x00083da1    0x5b35b build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .debug_str     0x00083da1    0x5c064 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .debug_str     0x00083da1    0x5b556 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .debug_str     0x00083da1    0x5baf4 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .debug_str     0x00083da1    0x6cf3e build/components/peripheral/src/usart.o
+
 .comment        0x00000000       0x45
  .comment       0x00000000       0x45 build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
                                  0x46 (size before relaxing)
  .comment       0x00000045       0x46 build/components/core/src/main.o
+ .comment       0x00000045       0x46 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .comment       0x00000045       0x46 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .comment       0x00000045       0x46 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .comment       0x00000045       0x46 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .comment       0x00000045       0x46 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .comment       0x00000045       0x46 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .comment       0x00000045       0x46 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .comment       0x00000045       0x46 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .comment       0x00000045       0x46 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .comment       0x00000045       0x46 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .comment       0x00000045       0x46 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .comment       0x00000045       0x46 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .comment       0x00000045       0x46 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .comment       0x00000045       0x46 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .comment       0x00000045       0x46 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .comment       0x00000045       0x46 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .comment       0x00000045       0x46 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .comment       0x00000045       0x46 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .comment       0x00000045       0x46 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .comment       0x00000045       0x46 build/components/peripheral/src/usart.o
+
+.debug_frame    0x00000000     0x3830
+ .debug_frame   0x00000000       0x58 build/vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.o
+ .debug_frame   0x00000058      0x3dc build/components/core/src/main.o
+ .debug_frame   0x00000434      0x31c build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.o
+ .debug_frame   0x00000750       0xa8 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_comp.o
+ .debug_frame   0x000007f8       0x84 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_crc.o
+ .debug_frame   0x0000087c       0xf8 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dac.o
+ .debug_frame   0x00000974      0x2b0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_dma.o
+ .debug_frame   0x00000c24      0x2fc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_exti.o
+ .debug_frame   0x00000f20      0x1c0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_gpio.o
+ .debug_frame   0x000010e0      0x238 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_i2c.o
+ .debug_frame   0x00001318      0x2ac build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lptim.o
+ .debug_frame   0x000015c4      0x170 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_lpuart.o
+ .debug_frame   0x00001734       0xf8 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pka.o
+ .debug_frame   0x0000182c       0x30 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.o
+ .debug_frame   0x0000185c      0x7bc build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rcc.o
+ .debug_frame   0x00002018       0xd4 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.o
+ .debug_frame   0x000020ec      0x66c build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.o
+ .debug_frame   0x00002758      0x258 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.o
+ .debug_frame   0x000029b0      0x5d0 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_tim.o
+ .debug_frame   0x00002f80      0x238 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_usart.o
+ .debug_frame   0x000031b8      0x504 build/vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.o
+ .debug_frame   0x000036bc      0x174 build/components/peripheral/src/usart.o
+
+.debug_ranges   0x00000000       0x20
+ .debug_ranges  0x00000000       0x20 build/components/core/src/startup_stm32wle5jcix.o
