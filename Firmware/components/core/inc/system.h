@@ -6,7 +6,7 @@
 #include "stm32wlxx_ll_system.h"
 #include "stm32wlxx_ll_utils.h"
 
-static inline void init_sys_clock() {
+static inline void init_sys_clock(void) {
   LL_FLASH_SetLatency(LL_FLASH_LATENCY_1);
   while (LL_FLASH_GetLatency() != LL_FLASH_LATENCY_1) {
   }
