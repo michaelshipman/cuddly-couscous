@@ -43,14 +43,22 @@ void main(void) {
       LL_LPUART_DMA_GetRegAddr(LPUART1, LL_LPUART_DMA_REG_DATA_TRANSMIT),
       LL_DMA_DIRECTION_MEMORY_TO_PERIPH);
 
-  LL_DMA_SetDataLength(DMA1, LL_DMA_CHANNEL_1, (uint32_t)14);
-
   LL_LPUART_EnableIT_TC(LPUART1);
   LL_LPUART_EnableDMAReq_TX(LPUART1);
 
-  LL_DMA_EnableChannel(DMA1, LL_DMA_CHANNEL_1);
-
   while (1) {
-    // LL_LPUART_TransmitData8(LPUART1, 'm');
+
+    LL_DMA_SetDataLength(DMA1, LL_DMA_CHANNEL_1, (uint32_t)14);
+    LL_DMA_EnableChannel(DMA1, LL_DMA_CHANNEL_1);
+
+    while (!LL_DMA_IsActiveFlag_TC1(DMA1))
+      ;
+
+    while (!LL_LPUART_IsActiveFlag_TC(LPUART1))
+      ;
+
+    LL_LPUART_ClearFlag_TC(LPUART1);
+    LL_DMA_ClearFlag_TC1(DMA1);
+    LL_DMA_DisableChannel(DMA1, LL_DMA_CHANNEL_1);
   }
 }
