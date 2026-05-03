@@ -15,6 +15,8 @@
 #include "stm32wlxx_ll_tim.h"
 #include "stm32wlxx_ll_utils.h"
 
+#include <string.h>
+
 static char lpuart1_buffer[1024] = {0};
 static uint8_t tx_queued = 0;
 
@@ -38,7 +40,7 @@ void lpuart1_init(void) {
   LL_GPIO_Init(GPIOC, &GPIO_InitStruct);
 
   LPUART_InitStruct.PrescalerValue = LL_LPUART_PRESCALER_DIV1;
-  LPUART_InitStruct.BaudRate = 9600;
+  LPUART_InitStruct.BaudRate = 115200;
   LPUART_InitStruct.DataWidth = LL_LPUART_DATAWIDTH_8B;
   LPUART_InitStruct.StopBits = LL_LPUART_STOPBITS_1;
   LPUART_InitStruct.Parity = LL_LPUART_PARITY_NONE;
@@ -73,6 +75,8 @@ void lpuart1_init(void) {
 
   LL_LPUART_EnableIT_TC(LPUART1);
   LL_LPUART_EnableDMAReq_TX(LPUART1);
+
+  return;
 }
 
 int32_t send_lpuart1_data(char *buf, uint32_t size) {
@@ -94,8 +98,7 @@ int32_t send_lpuart1_data(char *buf, uint32_t size) {
     LL_DMA_DisableChannel(DMA1, LL_DMA_CHANNEL_1);
   }
 
-  for (int i = 0; i < size; i++)
-    lpuart1_buffer[i] = buf[i];
+  memcpy(lpuart1_buffer, buf, size);
 
   LL_DMA_SetDataLength(DMA1, LL_DMA_CHANNEL_1, size);
   LL_DMA_EnableChannel(DMA1, LL_DMA_CHANNEL_1);

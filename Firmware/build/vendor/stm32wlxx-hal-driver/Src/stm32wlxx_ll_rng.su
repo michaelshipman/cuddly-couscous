@@ -1,0 +1,3 @@
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.c:82:13:LL_RNG_DeInit	0	static
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.c:113:13:LL_RNG_Init	0	static
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rng.c:133:6:LL_RNG_StructInit	0	static

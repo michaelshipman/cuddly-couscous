@@ -1,0 +1,8 @@
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.c:210:13:LL_ADC_CommonDeInit	0	static
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.c:242:13:LL_ADC_CommonInit	0	static
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.c:279:6:LL_ADC_CommonStructInit	0	static
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.c:303:13:LL_ADC_DeInit	8	static
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.c:504:13:LL_ADC_Init	8	static
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.c:557:6:LL_ADC_StructInit	0	static
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.c:608:13:LL_ADC_REG_Init	16	static
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_adc.c:716:6:LL_ADC_REG_StructInit	0	static

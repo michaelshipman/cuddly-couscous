@@ -1,0 +1,1 @@
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_pwr.c:81:13:LL_PWR_DeInit	0	static

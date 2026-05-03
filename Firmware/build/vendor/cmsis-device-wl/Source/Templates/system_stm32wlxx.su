@@ -1,0 +1,2 @@
+vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.c:223:6:SystemInit	0	static
+vendor/cmsis-device-wl/Source/Templates/system_stm32wlxx.c:278:6:SystemCoreClockUpdate	0	static

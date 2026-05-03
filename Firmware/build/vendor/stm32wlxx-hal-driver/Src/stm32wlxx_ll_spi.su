@@ -1,0 +1,7 @@
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.c:133:13:LL_SPI_DeInit	0	static
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.c:177:13:LL_SPI_Init	16	static
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.c:253:6:LL_SPI_StructInit	0	static
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.c:356:13:LL_I2S_DeInit	0	static
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.c:371:13:LL_I2S_Init	48	static
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.c:480:6:LL_I2S_StructInit	0	static
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_spi.c:502:6:LL_I2S_ConfigPrescaler	0	static

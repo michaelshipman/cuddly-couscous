@@ -15,7 +15,6 @@ char test_str[] = "hello world!\r\n";
 char another_str[] = "a much longer string for testing purposes\r\n";
 
 void main(void) {
-
   /* System interrupt init*/
   NVIC_SetPriorityGrouping(NVIC_PRIORITYGROUP_4);
 

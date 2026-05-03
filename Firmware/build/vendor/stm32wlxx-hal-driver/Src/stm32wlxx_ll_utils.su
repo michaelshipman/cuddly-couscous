@@ -1,0 +1,10 @@
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.c:658:17:UTILS_GetPLLOutputFrequency	0	static
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.c:688:20:UTILS_PLL_IsBusy	0	static
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.c:168:8:LL_Init1msTick	0	static
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.c:185:6:LL_mDelay	8	static
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.c:262:6:LL_SetSystemCoreClock	0	static
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.c:277:13:LL_SetFlashLatency	16	static
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.c:710:20:UTILS_EnablePLLAndSwitchSystem	40	static
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.c:374:13:LL_PLL_ConfigSystemClock_MSI	16	static
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.c:501:13:LL_PLL_ConfigSystemClock_HSI	16	static
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_utils.c:573:13:LL_PLL_ConfigSystemClock_HSE	16	static

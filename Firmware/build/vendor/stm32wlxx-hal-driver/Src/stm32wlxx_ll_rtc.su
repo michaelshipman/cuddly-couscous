@@ -1,0 +1,14 @@
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.c:266:6:LL_RTC_StructInit	0	static
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.c:368:6:LL_RTC_TIME_StructInit	0	static
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.c:456:6:LL_RTC_DATE_StructInit	0	static
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.c:479:13:LL_RTC_ALMA_Init	20	static
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.c:597:13:LL_RTC_ALMB_Init	20	static
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.c:707:6:LL_RTC_ALMA_StructInit	0	static
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.c:729:6:LL_RTC_ALMB_StructInit	0	static
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.c:754:13:LL_RTC_EnterInitMode	16	static
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.c:227:13:LL_RTC_Init	16	static
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.c:798:13:LL_RTC_ExitInitMode	0	static
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.c:825:13:LL_RTC_WaitForSynchro	16	static
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.c:148:13:LL_RTC_DeInit	8	static
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.c:286:13:LL_RTC_TIME_Init	24	static
+vendor/stm32wlxx-hal-driver/Src/stm32wlxx_ll_rtc.c:389:13:LL_RTC_DATE_Init	24	static

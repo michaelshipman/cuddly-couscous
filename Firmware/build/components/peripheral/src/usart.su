@@ -1,0 +1,2 @@
+components/peripheral/src/usart.c:23:6:lpuart1_init	80	static
+components/peripheral/src/usart.c:82:9:send_lpuart1_data	16	static

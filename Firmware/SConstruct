@@ -15,10 +15,10 @@ defines = '-DSTM32WLE5xx -DUSE_FULL_LL_DRIVER -DDEBUG -DCORE_M4 -DHSE_VALUE=8000
 env_options = {
     "CC"        : "arm-none-eabi-gcc",
     "LD"        : "arm-none-eabi-gcc",
-    "CCFLAGS"   : '-g3 -gdwarf-2 -O0 -mcpu=cortex-m4 -static -std=gnu11 -mfloat-abi=soft -mthumb -nostdlib' + ' ' + defines,
-    "LINKFLAGS" : '-g3 -gdwarf-2 -O0 -static -std=gnu11 -mfloat-abi=soft -TSTM32WLE5JCIX_FLASH.ld -nostdlib -Wl,-Map=build/program.map',
+    "CCFLAGS"   : '-g3 -gdwarf-2 -mcpu=cortex-m4 -std=gnu11 ' + defines + ' -Os -ffunction-sections -fdata-sections -Wall -fstack-usage --specs=nano.specs -mfloat-abi=soft -mthumb',
+    "LINKFLAGS" : '-g3 -gdwarf-2 -Os -mcpu=cortex-m4 -static -std=gnu11 -mfloat-abi=soft -TSTM32WLE5JCIX_FLASH.ld --specs=nosys.specs --specs=nano.specs -Wl,-Map=build/program.map -lc -lm -lgcc',
     "AS"        : 'arm-none-eabi-gcc',
-    "ASFLAGS"   : '-g3 -gdwarf-2 -O0 -mcpu=cortex-m4 -static -std=gnu11 -mfloat-abi=soft -mthumb -nostdlib -c -x assembler-with-cpp' + ' ' + defines
+    "ASFLAGS"   : '-g3 -gdwarf-2 -Os -mcpu=cortex-m4 -std=gnu11 -mfloat-abi=soft -mthumb -c -x assembler-with-cpp --specs=nano.specs' + ' ' + defines
 
 }
 
