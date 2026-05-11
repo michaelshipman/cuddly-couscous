@@ -30,12 +30,11 @@ jobs:
         run: |
           sudo apt update
           sudo apt install -y cmake gcc-arm-none-eabi libnewlib-arm-none-eabi build-essential scons
-          pwd
           git submodule update --init --recursive
           cd Firmware
           rm -rf build
           mkdir build
-          cd build
+          pwd
           scons
 
       - name: Release
