@@ -38,8 +38,8 @@ jobs:
           scons
 
       - name: Release
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v3
         with:
-          tag_name: V0.0.1
+          tag_name: V0.0.0
           files: |
             /home/runner/work/cuddly-couscous/cuddly-couscous/Firmware/build/program.elf
