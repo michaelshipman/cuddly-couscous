@@ -8,7 +8,8 @@
 #include "stm32wlxx_ll_utils.h"
 
 typedef struct {
-  uint8_t status;
+  uint8_t status_mode;
+  uint8_t cmd_status;
 } Radio_t;
 
 Radio_t radio;
@@ -103,6 +104,8 @@ static inline void set_radio_tcxo(void) {
 
 static inline void get_radio_status(void) {
 
+  uint8_t data = 0;
+
   while (LL_PWR_IsActiveFlag_RFBUSY())
     ;
 
@@ -113,11 +116,14 @@ static inline void get_radio_status(void) {
 
   LL_SPI_TransmitData8(SUBGHZSPI, 0xC0);
 
-  radio.status = LL_SPI_ReceiveData8(SUBGHZSPI);
+  data = LL_SPI_ReceiveData8(SUBGHZSPI);
 
   foo(10);
 
   LL_PWR_UnselectSUBGHZSPI_NSS();
+
+  radio.status_mode = (data & 0x70) >> 4;
+  radio.cmd_status = (data & 0x0E) >> 1;
 }
 
 static inline void calibrate_radio(void) {

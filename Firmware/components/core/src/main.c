@@ -46,7 +46,8 @@ int main(void) {
 
     get_radio_status();
 
-    snprintf(buffer, sizeof(buffer), "%x\r\n", radio.status);
+    snprintf(buffer, sizeof(buffer), "Status Mode: %x, Cmd Status: %x\r\n",
+             radio.status_mode, radio.cmd_status);
 
     while (send_lpuart1_data(buffer, sizeof(buffer)) < 0)
       ;
